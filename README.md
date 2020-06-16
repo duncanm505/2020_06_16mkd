@@ -1,4 +1,5 @@
--#2020_06_16 Git
+-#2020_06_16 Git 
+# conflicts can be a pain
 - `git init`: create a git respository in the current directory
 - `git status`: tells you what is going on
 - `git add`: starts backup for this
