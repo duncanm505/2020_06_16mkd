@@ -1,5 +1,7 @@
-#2020_06_16 Git
+-#2020_06_16 Git
 - `git init`: create a git respository in the current directory
 - `git status`: tells you what is going on
 - `git add`: starts backup for this
 - `git commit`: makes the copy
+- 'git log': shows history of commits
+	`git log --oneline`; just one line of info
