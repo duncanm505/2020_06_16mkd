@@ -11,3 +11,4 @@
 - `git push` sends data to remote backup
 - `git pull` gets data from git hub`
 - #conflicts with multiple people at same place can automatically resolve
+update the title on git hub
