@@ -9,3 +9,4 @@
 - `git checkout` goes back to old version
 - `git push` sends data to remote backup
 - `git pull` gets data from git hub`
+- #conflicts with multiple people at same place can automatically resolve
