@@ -5,3 +5,4 @@
 - `git commit`: makes the copy
 - 'git log': shows history of commits
 	`git log --oneline`; just one line of info
+- "git diff' look at versions
