@@ -8,3 +8,4 @@
 - 'git diff' look at versions
 - `git checkout` goes back to old version
 - `git push` sends data to remote backup
+- `git pull` gets data from git hub`
