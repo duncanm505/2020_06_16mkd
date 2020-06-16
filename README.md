@@ -7,4 +7,4 @@
 	`git log --oneline`; just one line of info
 - 'git diff' look at versions
 - `git checkout` goes back to old version
-
+- `git push` sends data to remote backup
